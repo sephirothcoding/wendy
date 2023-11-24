@@ -28,7 +28,7 @@ span{
     height:auto;
     font-size:16px;
     font-family:var(--font-1);
-    color:#FFF;
+    color: #e787c4;
     overflow-x:hidden
 }
 .jd-app{
@@ -160,7 +160,7 @@ span{
 .jd-box{
     width:110px;
     height:130px;
-    background: #00e6e6;
+    background: #e787c4;
     box-shadow:0 0 2px 1px rgba(0,0,0,.1);
     padding:14px;
     margin-bottom:20px;
