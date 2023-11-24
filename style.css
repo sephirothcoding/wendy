@@ -1,7 +1,12 @@
-{
-    background:#006666;
-    overflow-x:hidden
+
+body {
+    background-image: url('https://xatimg.com/image/E8EIeXQ41PDB.jpg'); /* Replace 'your-image-url.jpg' with the URL or path to your image */
+    background-repeat: no-repeat;
+    background-size: cover; /* Adjust as needed: cover, contain, etc. */
+    background-position: center center; /* Adjust as needed: center, top, bottom, left, right, etc. */
+    overflow-x: hidden;
 }
+
 *{
     margin:0;
     padding:0;
